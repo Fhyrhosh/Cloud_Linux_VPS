@@ -37,6 +37,8 @@
 
 ## ABOUT TOOL :
 
+Lisensi Coba: abcdb9dbe490b5f294ecffe10d337cba
+
 Cloud Linux RDP is a Free Remote Desktop Tool Wich is Used to Free Linux Desktop Of You. This tool works on both All Systems Browser.
 
 ### AVAILABLE ON :
